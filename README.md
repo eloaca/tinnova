@@ -54,5 +54,3 @@ http://localhost:8080/tinnova/api/dev
 - Swagger 3
 
 ## Obrigada
-
-[⬆ Voltar ao topo](tinnova)<br>
