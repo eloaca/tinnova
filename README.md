@@ -1,12 +1,4 @@
-# Prova Tinnova
-
-
-> O projeto foi desenvolvido seguindo as especificações pedida pela equipe da Tinnova 
-> durante o seu processo seletivo.
-
 ### Exercicios
-
-Foi solicitado a resolução de 5 exercicios, descritos abaixo:
 
 - [x] Votos em relação ao total de eleitores
 - [x] Algoritmo de ordenação Bubble Sort
@@ -20,9 +12,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão 11 do java
 * Voce instalou a versão 3 do maven
 
-## 🚀 Subindo tinnova-api
+## 🚀 Subindo o projeto
 
-Para instalar o tinnova-api, siga estas etapas:
+Para instalar o projeto, siga estas etapas:
 
 1 - Rode o clean install para executar os testes unitários da aplicação
 ```
@@ -49,12 +41,6 @@ http://localhost:8080/tinnova/api/dev
 ```
 "V004__insert-veiculo"
 ```
-##  Informações
-
-- Os Exercicios de 1 ao 4 foram desenvolvidos. É possível ver sua implementação
-através dos testes unitários.
-- O Exercicio 5 consiste em uma API REST. É possível ver sua implementação através
-dos testes unitários e também pelo SWAGGER.
 
 ## Tecnologias Utilizadas
 
@@ -68,5 +54,3 @@ dos testes unitários e também pelo SWAGGER.
 - Swagger 3
 
 ## Obrigada
-
-[⬆ Voltar ao topo](#tinnoa-api)<br>
